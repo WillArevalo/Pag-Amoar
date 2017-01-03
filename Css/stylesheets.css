@@ -290,5 +290,5 @@ body
 	font-size: 15pt;
 	color: black;
 	text-shadow: -1px 0 red, 0 1px green, 1px 0 blue, 0 -1px yellow;
-
+	text-align: left;
 }
