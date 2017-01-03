@@ -37,7 +37,22 @@ body
 	font-size: 45pt;
 	font-style: bold;
 }
+#titulo2
+{
+	color:red;
+	font-family: Covered By Your Grace;
+	font-size: 45pt;
+	font-style: bold;
+}
 #imagen1
+{
+	opacity: 0.9;
+}
+#imagen2
+{
+	opacity: 0.9;
+}
+#imagen3
 {
 	opacity: 0.9;
 }
@@ -54,17 +69,25 @@ body
 }
 .column2
 {
-	background-color:rgba(0, 0, 0, 0.5); 
+	background-color:rgba(0, 0, 0, 0.2); 
 	width:33%; 
 	float:left;
 	border-radius: 15pt;
 }
+.column2:hover
+{
+	background-color:rgba(0, 0, 0, 0.8);
+}
 .column3
 {
-	background-color:rgba(0, 0, 0, 0.5); 
+	background-color:rgba(0, 0, 0, 0.2); 
 	width:33%; 
-	float:left;
+	float:left; 
 	border-radius: 15pt;
+}
+.column3:hover
+{
+	background-color:rgba(0, 0, 0, 0.8);
 }
 #lema
 {
