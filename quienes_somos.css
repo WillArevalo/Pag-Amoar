@@ -1,0 +1,297 @@
+@import url('https://fonts.googleapis.com/css?family=Caveat+Brush|Tangerine|Ruthie|Covered+By+Your+Grace');
+header
+{
+	text-align: left;
+	background-color: rgba(0, 0, 0, 0.2);
+	border-radius: 15pt;
+}
+header:hover
+{
+	background-color: rgba(0, 0, 0, 0.5);
+    opacity: 1.0;
+}
+body
+{
+	background-image: url("../muzalotto.jpg"); 
+	background-attachment: fixed; 
+	background-repeat: no-repeat; 
+	background-position: center center;
+	background-blend-mode: hard-light;
+	background-color: #260832;
+	font-family: Agency FB;
+	text-align: center;
+	font-style: italic;
+	font-size: 30pt;
+	color: linen;
+}
+#main
+{
+	background-color: rgba(0, 0, 0, 0.7);
+	width:100%; 
+	float:left;
+	border-radius: 15pt;
+}
+#titulo
+{
+	color:red;
+	font-family: Covered By Your Grace;
+	font-size: 45pt;
+	font-style: bold;
+}
+.columna1
+{
+	width:33%; 
+	float:left; 
+}
+.columna2
+{
+	font-family: Tangerine; 
+	font-size: 40pt;
+	width:33%; 
+	float:left;
+	margin: 2pt;
+}
+.columna3
+{
+	font-family: Tangerine;
+	font-size: 40pt;
+	width:33%; 
+	float:left;
+}
+#lema
+{
+
+	background-color: rgba(0, 0, 0, 0.2);
+	width:100%; 
+	float:left;
+	border-radius: 15pt;
+	opacity: 1.0;
+	text-align: center;
+	color: whitesmoke;
+	font-family: Tangerine;
+}
+#lema:hover 
+{
+	background-color: rgba(0, 0, 0, 0.7);
+    opacity: 1.0;
+}
+.modelos
+{
+	background-color: rgba(199,  21, 133, 0.4);
+	width:16.5%; 
+	float:left;
+	border-radius: 15pt;
+	opacity: 1.0;
+	text-align: center;
+	color: whitesmoke;
+}
+.modelos:hover
+{
+	background-color: rgba(0, 0, 0, 0.6);
+	font-size: 31pt;
+	font-style: bold;
+}
+.quienes
+{
+	background-color: rgba(255,  20, 147, 0.4);
+	width:16.5%; 
+	float:left;
+	border-radius: 15pt;
+	opacity: 1.0;
+	text-align: center;
+	color: whitesmoke;
+}
+.quienes:hover
+{
+	background-color: rgba(0, 0, 0, 0.6);
+	font-size: 31pt;
+	font-style: bold;
+}
+.vision
+{
+	background-color: rgba(220,  20,  60, 0.4);
+	width:16.5%; 
+	float:left;
+	border-radius: 15pt;
+	opacity: 1.0;
+	text-align: center;
+	color: whitesmoke;
+}
+.vision:hover
+{
+	background-color: rgba(0, 0, 0, 0.6);
+	font-size: 31pt;
+	font-style: bold;
+}
+.mision
+{
+	background-color: rgba( 0, 255, 0, 0.4);
+	width:16.5%; 
+	float:left;
+	border-radius: 15pt;
+	opacity: 1.0;
+	text-align: center;
+	color: whitesmoke;
+}
+.mision:hover
+{
+	background-color: rgba(0, 0, 0, 0.6);
+	font-size: 31pt;
+	font-style: bold;
+}
+.estudios
+{
+	background-color: rgba(0, 139, 139, 0.4);
+	width:16.5%; 
+	float:left;
+	border-radius: 15pt;
+	opacity: 1.0;
+	text-align: center;
+	color: whitesmoke;
+}
+.estudios:hover
+{
+	background-color: rgba(0, 0, 0, 0.6);
+	font-size: 31pt;
+	font-style: bold;
+}
+.Contactanos
+{
+	background-color: rgba(128 , 0, 128, 0.4);
+	width:16.5%; 
+	float:left;
+	border-radius: 15pt;
+	opacity: 1.0;
+	text-align: center;
+	color: whitesmoke;
+}
+.Contactanos:hover
+{
+	background-color: rgba(0, 0, 0, 0.6);
+	font-size: 31pt;
+	font-style: bold;
+}
+#bienvenida
+{
+	font-size: 40pt;
+}
+#banner
+{
+	background-color: rgba(0, 0, 0, 0.6);
+	width: 80px;
+	position: fixed;
+	opacity: 0.4;
+	right:0em;
+	top:2em;
+	border-radius: 15pt;
+}
+#banner:hover
+{
+	background-color: rgba(0, 0, 0, 0.8);
+	opacity: 1.0;
+}
+#somostitulo
+{
+	font-size: 45pt;
+	font-family: Covered+By+Your+Grace;
+	color:red;
+}
+#somos
+{
+	width: 80%
+}
+.somoscolumna2, .somoscolumna3
+{
+	font-family: Tangerine;
+	font-size: 20pt;
+}
+#pie
+{
+	background-color: rgba(0, 0, 0, 0.2);
+	text-align: left;
+	font-family: Tangerine;
+	font-size: 40pt;
+	font-style: italic;
+	color: red;
+	opacity: 1.0;
+	border-radius: 15pt;
+	width: 100%
+}
+#pie:hover
+{
+	background-color: rgba(0, 0, 0, 0.5);
+    opacity: 1.0;
+}
+.pie1
+{
+	background-color:rgba(0, 255, 0, 0.4);
+	width: 50%;
+	float:left;
+	border-radius: 15pt;
+}
+.pie1:hover
+{
+	background-color:rgba(0, 128, 0, 0.8);
+}
+.pie2
+{
+	background-color:rgba(0, 255, 255, 0.4);
+	width: 50%;
+	float: left;
+	border-radius: 15pt;
+}
+.pie2:hover
+{
+	background-color:rgba(0, 139, 139, 0.8);
+}
+.pie3
+{
+	background-color:rgba(255, 99, 71, 0.4);
+	width: 50%;
+	float:left;
+	border-radius: 15pt;
+}
+.pie3:hover
+{
+	background-color:rgba(139, 0, 0, 0.8);
+}
+.pie4
+{
+	background-color:rgba(216, 191, 216, 0.4);
+	width: 50%;
+	float:left;
+	border-radius: 15pt;
+}
+.pie4:hover
+{
+	background-color:rgba(221, 160, 221, 0.8);
+}
+.pie5
+{
+	background-color:rgba(240, 230, 140, 0.4);
+	width: 50%;
+	float: left;
+	border-radius: 15pt;
+}
+.pie5:hover
+{
+	background-color:rgba(255, 215, 0, 0.6);
+}
+.pie6
+{
+	background-color:rgba(75, 0, 130, 0.4);
+	width: 50%;
+	float:right;
+	border-radius: 15pt;	
+}
+.pie6:hover
+{
+	background-color:rgba(75, 0, 130, 0.8);
+}
+#final
+{
+	font-size: 15pt;
+	color: black;
+	text-shadow: -1px 0 red, 0 1px green, 1px 0 blue, 0 -1px yellow;
+	text-align: left;
+}
